@@ -1,0 +1,1 @@
+This project aims to develop an ML model to predict the likelihood of death in patients with heart failure by leveraging clinical data and patient demographics to provide healthcare professionals with a predictive tool for early intervention,, ultimately improving patient care.
